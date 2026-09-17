@@ -2,24 +2,23 @@
 
 ### Electrical & Electronic Engineering (EEE) Student
 
-I am an EEE student interested in Electronics, Power Systems,
+I am an EEE student interested in Electronics, Power Systems,Communication
 Space Science, Signal Processing, Robotics, and emerging technologies.
 
 ## 🎓 Education
 
 - B.Sc. in Electrical & Electronic Engineering
 - City University, Bangladesh
-- Currently in 6th Semester
+- Currently in 7th Semester
 
 ## 💻 Skills
 
 - MATLAB
 - Basic Electronics
-- Power Electronics
+- Space Science (Aerospace)
 - Signal Processing
 - Graphic Design
-- Canva
-- Microsoft PowerPoint
+- Microsoft PowerPoint/Excel/office
 - Public Speaking
 - Leadership
 
@@ -32,7 +31,7 @@ Space Science, Signal Processing, Robotics, and emerging technologies.
 - Robotics
 - THz Photonic Crystal Fiber
 
-## 🚀 Projects
+## 🚀 Projects and Research
 
 - Solar Charge Controller
 - Wireless Power Transfer System
