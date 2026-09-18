@@ -68,6 +68,8 @@ https://iymc.info/en/rondas
 
 https://scholar.google.com/citations?user=Co5OjC0AAAAJ&hl=en
 
+https://www.linkedin.com/in/roni-das-356b30437/
+
 ## 📫 Contact
 
 Email: ronid4136@gmail.com
