@@ -62,7 +62,11 @@ Space Science, Signal Processing, Robotics, and emerging technologies.
 
 [Visit My Personal Website](https://ronidas.github.io)
 
-https://iaac.space/en/ambpage
+https://iaac.space/en/rondas
+
+https://iymc.info/en/rondas
+
+https://scholar.google.com/citations?user=Co5OjC0AAAAJ&hl=en
 
 ## 📫 Contact
 
